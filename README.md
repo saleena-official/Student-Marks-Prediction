@@ -50,6 +50,7 @@ Clone the project using Git:
 ```bash
 git clone 
 https://github.com/saleena-official/Student-Marks-Prediction.git
+```
 
 Or Downloaf it as a ZIP from GitHub
 
@@ -58,13 +59,13 @@ Make sure you have **Python 3.x** installed:
 
 ```bash
 python --version
-
+```
 ### Step 3: Install required libraries
 Install all libraries using 
 requirements.txt:
 ```bash
 pip install -r requirements.txt 
-
+```
 This will install:
 Pandas
 Numpy
@@ -74,7 +75,7 @@ Scikit-learn
 Navigate to the project folder and run:
 ```bash
 python main.py
-
+```
 ### Step 5: Check the output
 After running, you will see:
 
